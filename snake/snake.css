@@ -1,0 +1,21 @@
+.box{
+    width: 500px;
+    height:500px;
+    border: 1px solid #666;
+    margin: 0 auto;
+    background: url("img4.jpg");
+    background-size: cover;
+}
+.box div{
+    width: 25px;
+    height: 25px;
+    box-sizing: border-box;
+    /*border: 1px solid #666;*/
+    float: left;
+}
+.food{
+    background: red;
+}
+.snake{
+    background: blue;
+}
